@@ -10,6 +10,7 @@
   "author": "Huamán Chuchón Jourdy",
   "license": "ISC",
   "devDependencies": {
+    "dotenv": "^16.3.1",
     "nodemon": "^2.0.22"
   }
 }
